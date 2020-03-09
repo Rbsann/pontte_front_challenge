@@ -5,3 +5,7 @@ For the single request the app demanded i used axios library, for no particular 
 I opted to use React Hooks and context instead of Redux. It is lighter , less verbose and easier to work with. 
 
 Apparently it seems Redux is being used only in large multi state projects.
+
+Screenshot of the working project
+
+![Image description](https://ibb.co/Y2Zqv0k)
