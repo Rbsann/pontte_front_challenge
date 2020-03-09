@@ -1,0 +1,51 @@
+.first-value{
+
+    text-align: center;
+
+    h1{
+        color:#03043a;
+        font-size: 3em;
+    }
+}
+
+.absolute-value{
+    text-align:center;
+
+    h2{
+        color:#03043a;
+        
+    }
+
+}
+
+
+
+
+
+.pre-installments{
+    color:#9a2e98;
+    padding-bottom: 20px;
+
+}
+
+.installments{
+    text-align: center;
+    padding:50px;
+}
+
+.installments-col{
+    border-color: #03043a !important;
+    margin: 5px;
+    border-style: solid;
+    border-radius:5px;
+    border-width:1px;
+    padding:20px;
+    >:nth-child(2){
+        font-weight: bold !important;
+    }
+}
+
+.icon{
+    font-size: 20px;
+    margin-bottom: 13px;
+}

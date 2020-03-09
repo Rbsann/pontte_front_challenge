@@ -1,0 +1,40 @@
+.slider{
+    padding-top: 15px;
+    margin:0 auto;
+    max-width:85%
+}
+
+.MuiSlider-active{
+    color:#fff !important;
+}
+
+.MuiSlider-root{
+    color:#670366 !important;
+    
+}
+
+.MuiSlider-track{
+    color:#7aa224 ! important;
+    height:5px !important;
+}
+
+.MuiSlider-thumb{
+    background-color: #03043a !important;
+}
+.MuiSlider-rail{
+    height:5px !important;
+}
+
+.MuiSlider-mark{
+    width: 4px !important;
+    height: 5px !important;
+    position: absolute;
+    border-radius: 50% !important;
+    background-color: #fff !important;
+}
+
+.MuiSlider-markLabel{
+    font-family: inherit !important;
+    font-size: 15px !important;
+    color:#05063c !important;
+}

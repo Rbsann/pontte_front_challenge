@@ -1,0 +1,22 @@
+.button-container{
+    text-align: center;
+}
+
+.confirm-button{
+    width: 35%;
+    border-radius: 40px !important;
+    height: 80px;
+    background-image:linear-gradient(to right,#810085,#0c0099) !important;
+    &:disabled{
+        opacity:0.5;
+    }
+}
+
+.MuiButton-label{
+    color:#fff !important;
+    font-family: inherit !important;
+    font-weight: bold !important;
+    text-transform: none !important;
+    font-size: 2em !important;
+
+}

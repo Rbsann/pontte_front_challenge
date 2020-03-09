@@ -1,0 +1,42 @@
+.pre-installments{
+    color:#9a2e98;
+    padding-bottom: 20px;
+
+}
+
+.installments{
+    text-align: center;
+    padding:70px;
+}
+
+.installments-col{
+    cursor: pointer;
+    border-color: #03043a !important;
+    margin: 5px;
+    border-style: solid;
+    border-radius:5px;
+    border-width:1px;
+    padding:20px;
+    >:nth-child(2){
+        font-weight: bold !important;
+    }
+
+}
+.installments-col-active{
+    cursor: pointer;
+    border-color: #03043a !important;
+    margin: 5px;
+    border-style: solid;
+    border-radius:5px;
+    border-width:1px;
+    padding:20px;
+    background-color: #03043a;
+    
+    h4{
+        color:#fff
+    }
+    >:nth-child(2){
+        font-weight: bold !important;
+    }
+
+}
