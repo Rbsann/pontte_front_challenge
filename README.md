@@ -8,4 +8,4 @@ Apparently it seems Redux is being used only in large multi state projects.
 
 Screenshot of the working project
 
-![Image description](https://ibb.co/Y2Zqv0k)
+![Screenshoot](https://i.ibb.co/SNr9qfn/Screenshot-from-2020-03-09-00-42-07.png)
