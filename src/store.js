@@ -10,7 +10,6 @@ const StateProvider =  ( { children } ) => {
     const [state, dispatch] = useReducer((state, action) => {
         switch(action.type) {
             case 'SET_DATA':
-                console.log(action.payload)
                 return{
                     ...state,
                     data:action.payload
