@@ -20,7 +20,7 @@
     "react-format-currency": "^0.1.2",
     "react-icons": "^3.9.0",
     "react-number-format": "^4.4.1",
-    "react-scripts": "3.4.0",
+    "react-scripts": "5.0.1",
     "sass-loader": "^8.0.2"
   },
   "scripts": {
